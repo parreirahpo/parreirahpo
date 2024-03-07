@@ -38,7 +38,7 @@ Com mais de 12 anos de experiência em TI, trilhei um caminho de constante apren
 ![Siebel](https://img.shields.io/badge/-Siebel-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Cloud Data Management](https://img.shields.io/badge/-Oracle_Cloud_Data_Management-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Cloud Infrastructure](https://img.shields.io/badge/-Oracle_Cloud_Infrastructure-000000?style=for-the-badge&logo=oracle&logoColor=white)
-
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📈 Minhas Estatísticas do GitHub
 

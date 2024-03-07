@@ -1,6 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Henrique Pacini de Oliveira Parreira!</h1>
 <h3 align="center">Sou carioca, formado em Tecnologia da Informação e Comunicação pela FAETERJ Petrópolis em 2012.</h3>
 <h3 align="center">Sou um profissional de T.I com 12 anos de experiência diversificada, passando por várias linguagens de programação e sistemas.</h3>
+<h3 align="center"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parreirahpo/" target="blank">

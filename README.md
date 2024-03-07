@@ -14,13 +14,13 @@
 
 ### 🙋‍♂️ Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em **[Seu Projeto]**
+- 🔭 Atualmente estou trabalhando com **Siebel CRM**
 
-- 🌱 Atualmente estou aprendendo **[O que você está aprendendo]**
+- 🌱 Atualmente estou aprendendo **Python, Power BI, Machine Learning**
 
-- 👯 Estou procurando colaborar em **[Tipo de Projetos]**
+- 👯 Estou procurando colaborar em **Python**
 
-- 📫 Como me contatar: **[seu email]**
+- 📫 Como me contatar: **henriquepacini@outlook.com**
 
 ---
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/900x300/0088cc/FFFFFF?text=Seu+Nome" alt="Banner: Seu Nome">
+  <img src="https://via.placeholder.com/900x300/0088cc/FFFFFF?text=Seu+Nome" alt="Banner: aaa Nome">
 </div>
 
 <h1 align="center">Oi 👋, eu sou Henrique Pacini de Oliveira Parreira!</h1>

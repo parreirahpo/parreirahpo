@@ -9,8 +9,6 @@ Com mais de 12 anos de experiência em TI, trilhei um caminho de constante apren
 - 🔭 Atualmente, atuo como Consultor Oracle Siebel CRM na Accenture, focado em clientes de Telecom.
 - 🌱 Sou apaixonado por Python e inovação tecnológica, sempre buscando me aprofundar em novas tecnologias.
 - 👯 Estou aberto a colaborações em projetos inovadores que desafiem minhas habilidades e contribuam para o meu crescimento profissional.
-- 📫 Contate-me através de parreirahpo@gmail.com.
-
 
 ## 🎓 Formação Acadêmica
 - Tecnólogo em Tecnologia da Informação e Comunicação pela FAETERJ Petrópolis.

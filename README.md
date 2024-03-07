@@ -1,7 +1,3 @@
-
-<h1 align="center">Henrique Pacini de Oliveira Parreira</h1>
-
-
 ## 📜 Sobre Mim
 Com mais de 12 anos de experiência em TI, trilhei um caminho de constante aprendizado e evolução, desde bolsista de Iniciação Científica até Consultor Oracle Siebel CRM, acumulando experiência em diversas linguagens e tecnologias, particularmente em ambientes de telecomunicações.
 

@@ -1,129 +1,149 @@
 <div align="center">
 
-# Henrique Pacini · Senior Backend Engineer
+# Henrique Pacini de Oliveira Parreira
 
-**🇧🇷 PT-BR** | [🇺🇸 EN](#english-version)
+### Senior Software Engineer | Backend | System Integration | Automation
 
-*Java & Python · Spring Boot · Microservices · Process Automation & RPA · AI-Powered Solutions · Azure DevOps*
+**Python · Django · Java · Spring Boot · Oracle · REST APIs · Docker · Kubernetes · Azure DevOps · Generative AI**
 
-📍 Juiz de Fora, MG, Brasil — 100% remoto há 10+ anos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parreirahpo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parreirahpo/)
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-Engenheiro de software com **12+ anos** de experiência em sistemas enterprise de alta complexidade. Especializado em backend (Java/Python), automação de processos (RPA, Power Automate, Hiperautomação) e aplicação prática de IA em ambientes corporativos. **9+ anos** em CRMs de missão crítica para TIM e Vivo — as maiores operadoras de telecom do Brasil. Hoje construo microserviços, pipelines ETL, soluções com IA generativa e automações que eliminam gargalos em operações de larga escala.
+Senior Software Engineer with **15 years of experience** in software development, backend engineering, system integration, automation and enterprise applications.
 
-**Cargo atual:** Senior Backend Engineer @ Accenture
+My current work is centered on **Python, Django and Oracle**, with a strong professional background in **Java, Spring Framework and Spring Boot**. I work across application architecture, REST APIs, relational databases, authentication and authorization, automated testing, CI/CD, containers and production troubleshooting.
+
+I also develop enterprise automation and Generative AI integrations, including backend workflows using **Azure AI Foundry, RAG, vector stores, file search, Anthropic Claude API and MCP**.
 
 ---
 
-## Stack
+## Tech stack
 
-**Backend**
+### Backend & Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Cloud & DevOps**
+### APIs, Architecture & Integration
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square)
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-5A29E4?style=flat-square)
+![System Integration](https://img.shields.io/badge/System_Integration-1F6FEB?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-4B5563?style=flat-square)
+
+### Databases & Data
+
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat-square)
+
+### DevOps, Containers & Delivery
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**IA & Automação**
+### Testing & Quality
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=anthropic&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-FF6B35?style=flat-square&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Automated Testing](https://img.shields.io/badge/Automated_Testing-2E8B57?style=flat-square)
 
-**Dados**
+### Automation & Generative AI
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-FF6B35?style=flat-square)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![Vector Stores](https://img.shields.io/badge/Vector_Stores-6D28D9?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square)
 
-**Integrações**
+### Enterprise Platforms & Security
 
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
-
----
-
-## O que tenho construído
-
-| Projeto | Descrição |
-|---|---|
-| Pipeline ETL · Azure DevOps → Power BI | Extração de work items via API, transformação em Python e dashboards executivos no Power BI |
-| Validação de entregas com IA | Análise semântica de artefatos de projeto com IA generativa para auditoria automática de qualidade |
-| Sync bidirecional Azure DevOps ↔ JIRA | Microserviço Spring que mantém issues sincronizadas em tempo real entre as duas plataformas |
-| Integração enterprise de telecom | Microserviços Java conectando plataformas críticas de TIM e Vivo (base de milhões de usuários) |
-| Upgrade Siebel CRM com zero regressão | Migração de CRM de missão crítica sem impacto para base de usuários de grande escala |
+![Oracle Siebel CRM](https://img.shields.io/badge/Oracle_Siebel_CRM-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SAML 2.0](https://img.shields.io/badge/SAML_2.0-374151?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-1F2937?style=flat-square)
 
 ---
 
-## Foco atual
+## What I build
 
-Hiperautomação aplicada · IA generativa em fluxos enterprise · Claude & Claude Code como multiplificadores de produtividade técnica
-
----
-
-## Formação & Certificações
-
-- Pós-graduação em Automação de Processos, RPA e Hiperautomação — **PUC Minas** (2025–2026)
-- Tecnólogo em TIC — **FAETERJ Petrópolis**
-- Oracle Fusion AI Agent Studio Certified Foundations Associate (2025)
-- Oracle Siebel CRM Certified Foundations Associate (2025)
-- **35 certificações** em tecnologia e processos
+- Backend applications and enterprise web systems with **Python/Django** and **Java/Spring Boot**
+- **REST APIs**, system integrations and distributed application workflows
+- Relational data solutions with **Oracle, PostgreSQL and SQL Server**
+- Background processing, retries, synchronization and integration automation
+- Automated testing, CI/CD pipelines and containerized application delivery
+- Process automation using **Python, RPA, Microsoft Power Automate and Selenium**
+- Generative AI integrations for backend workflows using **LLM APIs, Azure AI Foundry, RAG and MCP**
+- Production troubleshooting, root cause analysis and application modernization
 
 ---
 
-## Filosofia
+## Professional focus
 
-> Automação começa com entendimento de processo, não com código.
-> IA amplifica conhecimento técnico — não substitui fundamentos.
-> Documentação não é burocracia, é sobrevivência do projeto.
+```text
+Backend Engineering
+Software Architecture
+System Integration
+Enterprise Applications
+Automation
+Distributed Systems
+Generative AI Integration
+Technical Leadership
+```
 
 ---
 
-## Estatísticas
+## Education
+
+**Postgraduate Specialization in Process Automation: RPA and Hyperautomation**  
+PUC Minas · 2025 to 2026
+
+**Technologist Degree in Information and Communication Technology (ICT)**  
+FAETERJ Petrópolis · 2010 to 2014
+
+---
+
+## Oracle Certifications
+
+- **Oracle Fusion AI Agent Studio Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- **Oracle Siebel CRM Certified Foundations Associate**
+
+---
+
+## Contact
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parreirahpo&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parreirahpo&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=parreirahpo&theme=dark&hide_border=true&locale=pt_BR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Parreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parreirahpo/)
+[![GitHub](https://img.shields.io/badge/GitHub-parreirahpo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parreirahpo)
 
 </div>
-
----
-
-## Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parreirahpo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parreirahpo)
-[![Email](https://img.shields.io/badge/Email-henriquepacini%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henriquepacini@outlook.com)
-
-</div>
-
----
-
-<a name="english-version"></a>
-## About me · EN
-
-Software engineer with **12+ years** of experience in high-complexity enterprise systems. Specialized in backend development (Java/Python), process automation (RPA, Power Automate, Hyperautomation), and practical AI applications in corporate environments. **9+ years** in mission-critical CRM systems for TIM and Vivo — Brazil's largest telecom operators. Currently building microservices, ETL pipelines, generative AI solutions, and automations that remove bottlenecks from large-scale operations.
-
-**Current role:** Senior Backend Engineer @ Accenture · Remote · Juiz de Fora, MG, Brazil
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parreirahpo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parreirahpo)
